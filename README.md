@@ -27,7 +27,7 @@ The dataset consists of revenue, occupancy and many other data across various ho
 - Suggested improvements in pricing and marketing strategies to boost revenue.
 
 ## Visuals
-![Tableau Dashboard Screenshot](link_to_screenshot)
+![Screenshot 2024-09-10 151233](https://github.com/user-attachments/assets/089b2beb-71c3-4dff-8232-43068640fc84)
 
 ## How to Run the Project
 1. Download the dataset and place it in the `data/` folder.
